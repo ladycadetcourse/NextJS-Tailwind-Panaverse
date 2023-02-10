@@ -22,9 +22,9 @@ const Hero = () => (
           variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center"
         >
-          <h1 className={styles.heroHeading}>  </h1>
+          {/* <h2 className={styles.heroHeading}>  </h2> */}
           
-          <h1 className={styles.heroHeading} Getting ready for Industry with >Certified Web 3.0 Metaverse Developer</h1>
+          <h1 className={styles.heroHeading}  >Certified Web 3.0 Metaverse Developer</h1>
         </motion.div>
       </div>
 
@@ -35,9 +35,9 @@ const Hero = () => (
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
 
         <img
-          src="/cover.png"
+          src="/cover1.png"
           alt="hero_cover"
-          className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
+          className="w-full sm:h-[500px] h-[350px]  rounded-tl-[140px] z-10 relative"
         />
 
         <a href="#explore">

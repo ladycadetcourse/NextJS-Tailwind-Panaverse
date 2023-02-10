@@ -12,7 +12,7 @@ export const exploreWorlds = [
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Quarter II Planet-Scale Web 2.0 Serverless Cloud Apps & APIs',
+    title: 'Quarter II Planet-Scale Web 2.0 Cloud Apps APIs',
   },
   {
     id: 'world-4',
@@ -28,22 +28,23 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account with Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.'
+  
+  ,
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A new Technology',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'We have the latest update with new world for you .Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: ' Nation wide',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar',
   },
 ];
 

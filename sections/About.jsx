@@ -16,7 +16,7 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About Panaverse" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
@@ -41,7 +41,7 @@ const About = () => (
         <span className="font-extrabold text-white">with our courses</span> you can
         easily explore the metaverse world you want, turn your dreams into
         reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the 
+        <span className="font-extrabold text-white">explore</span> the courses
         of the Panaverse by scrolling down
       </motion.p>
 
